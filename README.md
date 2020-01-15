@@ -69,7 +69,7 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 <img align="center" src="assets/CutMix.png" width="500">
 
 - intro: ICCV 2019 (oral talk)
-- arxiv: <https://github.com/clovaai/CutMix-PyTorch>
+- arxiv: <https://arxiv.org/pdf/1905.04899.pdf>
 - github: <https://github.com/clovaai/CutMix-PyTorch>
 
 ## Augmix
@@ -108,6 +108,15 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 - provider: google
 - arxiv: <https://arxiv.org/pdf/1912.02781.pdf>
 - github: <https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet>
+
+
+## GridMask
+**GridMaskDataAugmentation**
+
+<img align="center" src="assets/GridMask.png" width="650">
+
+- intro:  2020.01
+- arxiv: <https://arxiv.org/abs/2001.04086>
 
 
 ## imagecorruptions
