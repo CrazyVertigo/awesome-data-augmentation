@@ -117,6 +117,8 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 
 - intro:  2020.01
 - arxiv: <https://arxiv.org/abs/2001.04086>
+- github: <https://github.com/akuxcw/GridMask>
+
 
 
 ## imagecorruptions
