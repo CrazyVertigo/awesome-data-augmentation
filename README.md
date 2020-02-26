@@ -155,6 +155,23 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 - arxiv: <https://arxiv.org/pdf/1902.07296.pdf>
 - github: <https://github.com/gmayday1997/SmallObjectAugmentation>
 
+# Annotation Tools
+
+## labelImg
+
+<img align="center" src="assets/labelimg.jpg" width="600">
+
+- intro: 2017
+- github star: 9.8k
+- github: <https://github.com/tzutalin/labelImg>
+LabelImg is a graphical image annotation tool and label object bounding boxes in images.
+
+## labelme
+<img align="center" src="assets/labelme.jpg" width="600">
+- intro: 2019
+- github star: 4.2k
+- github: <https://github.com/wkentaro/labelme>
+Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 
 # Continuous updating...
 
