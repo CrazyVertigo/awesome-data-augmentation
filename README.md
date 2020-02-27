@@ -166,6 +166,15 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 - github: <https://github.com/bcmi/Image_Harmonization_Datasets>
 
 
+**InstaBoost: Boosting Instance Segmentation Via Probability Map Guided Copy-Pasting**
+
+
+- intro: ICCV 2019  
+- provider: SJTU
+- arxiv: <https://arxiv.org/abs/1908.07801>
+- github: <https://github.com/GothicAi/Instaboost>
+
+
 
 # Annotation Tools
 
