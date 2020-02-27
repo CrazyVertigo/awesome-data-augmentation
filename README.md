@@ -155,6 +155,18 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 - arxiv: <https://arxiv.org/pdf/1902.07296.pdf>
 - github: <https://github.com/gmayday1997/SmallObjectAugmentation>
 
+
+## Image Composition:Deep Image Harmonization
+**Deep Image Harmonization via Domain Verification**
+
+
+- intro: CVPR 2020 
+- provider: SJTU
+- arxiv: <https://arxiv.org/abs/1911.13239>
+- github: <https://github.com/bcmi/Image_Harmonization_Datasets>
+
+
+
 # Annotation Tools
 
 ## labelImg
