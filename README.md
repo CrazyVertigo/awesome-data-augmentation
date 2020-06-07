@@ -106,8 +106,22 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 
 - intro: ICLR 2020
 - provider: google
-- arxiv: <https://arxiv.org/pdf/1912.02781.pdf>
+- arxiv: <https://arxiv.org/pdf/1909.13719.pdf>
 - github: <https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet>
+
+
+## Random-Erasing
+**Random Erasing Data Augmentation**
+
+| black  | white | random |
+|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+|![i1](assets/001-black.gif)|![i2](assets/001-white.gif)| ![i3](assets/001-random.gif)|
+|![i4](assets/002-black.gif)|![i5](assets/002-white.gif)| ![i6](assets/002-random.gif)|
+
+
+- intro:  AAAI 2020
+- arxiv: <https://arxiv.org/pdf/1708.04896.pdf>
+- github: <https://github.com/zhunzhong07/Random-Erasing>
 
 
 ## GridMask
