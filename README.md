@@ -141,10 +141,8 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 <img align="center" src="assets/corruptions_sev_3.png" width="750">
 
 - intro: arXiv  2019
-- arxiv: <://arxiv.org/pdf/1912.02781.pdf>
-- provider: UC Berkeley
-- github: <https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix>
-- github: <https://github.com/junyanz/CycleGAN>
+- arxiv: <https://arxiv.org/abs/1807.01697>
+- github: <https://github.com/CrazyVertigo/imagecorruptions>
 
 ## CycleGAN
 **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss**
@@ -156,8 +154,8 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 - intro: ICCV 2017
 - arxiv: <https://arxiv.org/pdf/1912.02781.pdf>
 - provider: UC Berkeley
-- github: <https://github.com/CrazyVertigo/imagecorruptions>
-
+- github: <https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix>
+- github: <https://github.com/junyanz/CycleGAN>
 
 
 ## Small Object Augmentation
@@ -188,8 +186,18 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 - arxiv: <https://arxiv.org/abs/1908.07801>
 - github: <https://github.com/GothicAi/Instaboost>
 
+# Hard data mining
+**Unsupervised Hard Example Mining from Videos for Improved Object Detection**
+
+<img align="center" src="assets/Unsupervised Hard Example Mining from Videos.png" width="750">
 
 
+- intro: ECCV 2018  
+- provider: SJTU
+- arxiv: <http://vis-www.cs.umass.edu/unsupVideo/docs/unsup-video_eccv2018.pdf>
+- github: <https://github.com/adiprasad/unsup-hard-negative-mining-mscoco>
+- project: <http://vis-www.cs.umass.edu/unsupVideo/>
+- demo video: <http://vis-www.cs.umass.edu/unsupVideo/docs/suppVideo.mp4>
 # Annotation Tools
 
 ## labelImg
