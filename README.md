@@ -80,6 +80,16 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 - github: <https://github.com/google-research/augmix>
 
 
+## copy-paste
+**Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation**
+
+<img align="center" src="assets/copy-paste.png" width="550">
+
+- intro: 2020
+- provider: google
+- arxiv: <https://arxiv.org/pdf/2012.07177.pdf>
+- github: <https://github.com/google-research/augmix>
+- 
 
 ## fast-autoaugment
 **Fast AutoAugment**
@@ -132,7 +142,7 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 - intro:  2020.01
 - arxiv: <https://arxiv.org/abs/2001.04086>
 - github: <https://github.com/akuxcw/GridMask>
-- zhihu: <https://zhuanlan.zhihu.com/p/103992528>
+- 知乎参考: <https://zhuanlan.zhihu.com/p/103992528>
 
 
 ## imagecorruptions
@@ -193,11 +203,12 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 
 
 - intro: ECCV 2018  
-- provider: SJTU
 - arxiv: <http://vis-www.cs.umass.edu/unsupVideo/docs/unsup-video_eccv2018.pdf>
 - github: <https://github.com/adiprasad/unsup-hard-negative-mining-mscoco>
 - project: <http://vis-www.cs.umass.edu/unsupVideo/>
 - demo video: <http://vis-www.cs.umass.edu/unsupVideo/docs/suppVideo.mp4>
+- 知乎参考: <https://zhuanlan.zhihu.com/p/174057800>
+
 # Annotation Tools
 
 ## labelImg
