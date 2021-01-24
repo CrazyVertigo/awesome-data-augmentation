@@ -137,7 +137,7 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 ## GridMask
 **GridMaskDataAugmentation**
 
-<img align="center" src="assets/GridMask.png" width="650">
+<img align="center" src="assets/GridMask.png" width="400">
 
 - intro:  2020.01
 - arxiv: <https://arxiv.org/abs/2001.04086>
@@ -171,11 +171,21 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 ## Small Object Augmentation
 **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss**
 
-<img align="center" src="assets/SmallObjectAugmentation.png" width="750">
+<img align="center" src="assets/SmallObjectAugmentation.png" width="500">
 
 - intro:  2017
 - arxiv: <https://arxiv.org/pdf/1902.07296.pdf>
 - github: <https://github.com/gmayday1997/SmallObjectAugmentation>
+
+## Segmentation & Matting
+**Real-Time High-Resolution Background Matting**
+
+<img align="center" src="assets/matting.gif" width="750">
+
+- intro:  2020.12
+- arxiv: <https://arxiv.org/abs/2012.07810>
+- github: <https://github.com/PeterL1n/BackgroundMattingV2>
+
 
 
 ## Image Composition:Deep Image Harmonization
