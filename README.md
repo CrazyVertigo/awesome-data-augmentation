@@ -168,6 +168,20 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 - github: <https://github.com/junyanz/CycleGAN>
 
 
+## ALAE
+**Adversarial Latent Autoencoders**
+
+
+<img align="center" src="assets/teaser_high_res.jpg" width="750">
+
+
+- intro: CVPR 2020
+- arxiv: <https://arxiv.org/pdf/2004.04467.pdf>
+- github: <https://github.com/podgorskiy/ALAE>
+
+
+
+
 ## Small Object Augmentation
 **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss**
 
