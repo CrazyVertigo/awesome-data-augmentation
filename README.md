@@ -144,6 +144,17 @@ Mixup is a generic and straightforward data augmentation principle. In essence, 
 - github: <https://github.com/akuxcw/GridMask>
 - 知乎参考: <https://zhuanlan.zhihu.com/p/103992528>
 
+## MMD
+**A Person Re-identification Data Augmentation Method with Adversarial Defense Effect**
+
+<img align="center" src="assets/mmd_sketch.png" width="700">
+
+- intro:  2021.01
+- arxiv: <https://arxiv.org/abs/2001.04086>
+- github: <https://github.com/finger-monkey/ReID_Adversarial_Defense>
+
+
+
 
 ## imagecorruptions
 **Benchmarking Robustness in Object Detection:Autonomous Driving when Winter is Coming**
